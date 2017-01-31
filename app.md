@@ -18,7 +18,7 @@
 # 开发
 
 * [Dash](https://kapeli.com/dash) - Mac下最好的 API 离线查询工具
-* [Atom](https://atom.io) - IDE
+* [Atom](https://atom.io) - Github 自家出的编辑器
 * [iTerm2](https://www.iterm2.com) - 终端
 * [Sublime Text](https://www.sublimetext.com) - 编辑器
 * [TextMate](http://macromates.com) - 编辑器
@@ -31,12 +31,15 @@
 * [Filezilla](https://filezilla-project.org) - FTP
 * [Typora](https://typora.io) - MarkDown
 * [MacDown](http://macdown.uranusjr.com) - MarkDown
+* [Ulysses](https://ulyssesapp.com) - 专业文本编辑工具，支持 Markdown
 * GitHub Desktop (Git图形客户端)
+* [Tower](https://www.git-tower.com) - Git 客户端，支持GitHub、Bitbucket等
 * [SmartSVN](http://www.smartsvn.com) - SVN图形客户端
 * Navicat (数据库管理)
 * [Sequel Pro](http://www.sequelpro.com) - Mac 平台上的 Mysql Client
 * RoboMongo (MongoDB数据库管理)
-* [Charles Proxy](https://www.charlesproxy.com) - 抓包工具
+* [Charles Proxy](https://www.charlesproxy.com) - 抓包代理调试工具、类 Fiddler
+
 
 ### +
 
@@ -54,7 +57,7 @@
 # 产品
 
 * Axure (原型设计)
-* Sketch (原型设计)
+* Sketch (原型设计、图像处理设计工具)
 * XMind (思维导图)
 * MindNode (思维导图)
 
