@@ -31,6 +31,7 @@
 * PHPStorm (PHP IDE)
 * Cyberduck (FTP)
 * Typora (MarkDown)
+* MacDown (MarkDown)
 * GitHub Desktop (Git图形客户端)
 * SmartSVN (SVN图形客户端)
 * Navicat (数据库管理)
@@ -79,5 +80,7 @@
 
 # 系统工具
 
-* TeamViewer
+* TeamViewer (远程协助)
 * Snip (截图)
+* DiffFork (文件对比)
+
