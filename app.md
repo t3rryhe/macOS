@@ -31,6 +31,7 @@
 # 产品
 
 * Axure (原型设计)
+* Sketch (原型设计)
 * XMind (思维导图)
 
 # 通讯
@@ -50,3 +51,4 @@
 # 其它
 
 * TeamViewer
+* Snip (截图)
