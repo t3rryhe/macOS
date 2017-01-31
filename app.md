@@ -77,7 +77,7 @@
 # 系统工具
 
 * [Archiver](http://archiverapp.com) - 解压缩工具
-* TeamViewer - 远程协助
-* Snip - 截图
-* DiffFork - 文件对比
+* [TeamViewer](https://www.teamviewer.com) - 远程支持/协助
+* [Snip](http://snip.qq.com) - 截图
+* [DiffFork](http://www.dotfork.com/difffork/) - 文件对比
 * [F.lux](https://justgetflux.com) - 护眼工具
