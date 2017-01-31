@@ -6,6 +6,8 @@
 * [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 * [Homebrew](http://brew.sh) - The missing package manager for macOS
 * [Timing](http://timingapp.com) - 统计 Mac 使用习惯，每天做了什么
+* [Default Folder X](http://www.stclairsoft.com/DefaultFolderX/) - 快速定位/选择常用文件夹
+* [OmmWriter](http://www.ommwriter.com) - 为写作者创造梵音禅境，专注创作
 
 # 浏览器
 
@@ -49,7 +51,7 @@
 # iOS 工具
 
 * iTools
-* iExplorer
+* [iExplorer](https://www.macroplant.com/iexplorer/) - 管理iOS设备
 * Iconkit
 * iPhonePNGApp
 
