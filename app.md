@@ -21,12 +21,12 @@
 * Atom (IDE)
 * [iTerm2](https://www.iterm2.com) - 终端
 * [Sublime Text](https://www.sublimetext.com) - 编辑器
-* TextMate (编辑器)
-* Coda2 (编辑器)
+* [TextMate](http://macromates.com) - 编辑器
+* [Coda2](http://www.panic.com/coda/) - 编辑器
 * [WebStorm](https://www.jetbrains.com/webstorm/) - JavaScript IDE
 * PHPStorm (PHP IDE)
-* Cyberduck (FTP)
-* Typora (MarkDown)
+* [Cyberduck](https://cyberduck.io) - FTP
+* [Typora](https://typora.io) - MarkDown
 * MacDown (MarkDown)
 * GitHub Desktop (Git图形客户端)
 * SmartSVN (SVN图形客户端)
