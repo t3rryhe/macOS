@@ -60,7 +60,7 @@
 # 产品
 
 * Axure (原型设计)
-* Sketch (原型设计、图像处理设计工具)
+* [Sketch](https://www.sketchapp.com) - 原型设计、图像处理设计工具
 * XMind (思维导图)
 * MindNode (思维导图)
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 专业绘图制表工具，推荐v6.0
