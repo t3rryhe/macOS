@@ -31,7 +31,7 @@
 * [Typora](https://typora.io) - MarkDown
 * MacDown (MarkDown)
 * GitHub Desktop (Git图形客户端)
-* SmartSVN (SVN图形客户端)
+* [SmartSVN](http://www.smartsvn.com) - SVN图形客户端
 * Navicat (数据库管理)
 * RoboMongo (MongoDB数据库管理)
 
