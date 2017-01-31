@@ -1,6 +1,7 @@
 # 效率
 
 * Evernote - 知识管理工具
+* [Reeder](https://itunes.apple.com/us/app/reeder-3/id880001334?ls=1&mt=12) - 阅读器
 * [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 * [Homebrew](http://brew.sh) - The missing package manager for macOS
 
@@ -65,6 +66,10 @@
 
 * [搜狗拼音](http://pinyin.sogou.com/mac/)
 * 搜狗五笔
+
+# 邮件
+
+* [Sparrow](http://www.sparrowmailapp.com)
 
 # 虚拟机
 
