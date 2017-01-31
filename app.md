@@ -81,6 +81,7 @@
 # 邮件
 
 * [Sparrow](http://www.sparrowmailapp.com)
+* [Airmail](http://airmailapp.com)
 * [Foxmail](http://www.foxmail.com)
 
 # 虚拟机
