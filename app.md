@@ -1,7 +1,7 @@
 # 效率
 
 * Evernote - 知识管理工具
-* Oh My Zsh
+* [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 
 # The missing package manager for OS X
 
@@ -82,3 +82,4 @@
 * [DiffFork](http://www.dotfork.com/difffork/) - 文件对比
 * [F.lux](https://justgetflux.com) - 护眼工具
 * [Moom](https://manytricks.com/moom/) - 窗口控制器
+* [Noizio](http://noiz.io) - 风声雨声键盘声
