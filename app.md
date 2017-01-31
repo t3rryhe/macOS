@@ -28,10 +28,13 @@
 * Sublime Text (编辑器)
 * TextMate (编辑器)
 * Coda2 (编辑器)
+* PHPStorm (PHP IDE)
 * Cyberduck (FTP)
 * Typora (MarkDown)
 * GitHub Desktop (Git图形客户端)
 * SmartSVN (SVN图形客户端)
+* Navicat (数据库管理)
+* RoboMongo (MongoDB数据库管理)
 
 ### +
 
@@ -61,6 +64,11 @@
 * 微信
 * Skype
 
+# 输入法
+
+* 搜狗拼音
+* 搜狗五笔
+
 # 虚拟机
 
 * Parallels Desktop
@@ -69,7 +77,7 @@
 
 * 未完待续...
 
-# 其它
+# 系统工具
 
 * TeamViewer
 * Snip (截图)
