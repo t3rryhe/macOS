@@ -28,3 +28,25 @@
 * Cyberduck (FTP)
 * Typora (MarkDown)
 
+# 产品
+
+* Axure (原型设计)
+* XMind (思维导图)
+
+# 通讯
+
+* QQ
+* 微信
+* Skype
+
+# 虚拟机
+
+* Parallels Desktop
+
+# 科学上网
+
+* 未完待续...
+
+# 其它
+
+* TeamViewer
