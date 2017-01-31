@@ -25,8 +25,11 @@
 * Dash
 * iTerm 2 (终端)
 * Sublime Text (编辑器)
+* TextMate (编辑器)
+* Coda2 (编辑器)
 * Cyberduck (FTP)
 * Typora (MarkDown)
+* GitHub Desktop (Git图形客户端)
 
 # 产品
 
