@@ -109,3 +109,5 @@
 * [Moom](https://manytricks.com/moom/) - 窗口控制器
 * [Noizio](http://noiz.io) - 让人感觉置身大自然的白噪声音效模拟工具
 * [CleanMyMac 3](http://macpaw.com/cleanmymac) - 系统清理
+* [Bartender](https://www.macbartender.com) - 自定义右上角 Menu 栏图标
+* [iStat Menus](https://bjango.com/mac/istatmenus/) - 实时显示系统状态、网速等
