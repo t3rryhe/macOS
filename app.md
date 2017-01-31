@@ -23,6 +23,7 @@
 # 开发
 
 * Dash
+* Atom (IDE)
 * iTerm 2 (终端)
 * Sublime Text (编辑器)
 * TextMate (编辑器)
@@ -35,14 +36,14 @@
 ### +
 
 * CDNBee (前端开源库CDN加速) [官网](https://cdnbee.com)
-* img.ph (占位图/符) [官网](https://img.ph)
-
+* img.ph (一个快速和简单的图像占位符服务) [官网](https://img.ph)
 
 # 产品
 
 * Axure (原型设计)
 * Sketch (原型设计)
 * XMind (思维导图)
+* MindNode (思维导图)
 
 # 通讯
 
