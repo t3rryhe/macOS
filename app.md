@@ -70,6 +70,7 @@
 # 邮件
 
 * [Sparrow](http://www.sparrowmailapp.com)
+* [Foxmail](http://www.foxmail.com)
 
 # 虚拟机
 
