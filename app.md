@@ -64,6 +64,8 @@
 * XMind (思维导图)
 * MindNode (思维导图)
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 专业绘图制表工具，推荐v6.0
+* [OmniOutliner](https://www.omnigroup.com/omnioutliner) - 写PPT、文档的好帮手
+
 
 ### +
 
