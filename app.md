@@ -34,6 +34,7 @@
 * [Typora](https://typora.io) - MarkDown
 * [MacDown](http://macdown.uranusjr.com) - MarkDown
 * [Ulysses](https://ulyssesapp.com) - 专业文本编辑工具，支持 Markdown
+* [MAMP](https://www.mamp.info/en/) - PHP+Mysql 开发集成环境
 * GitHub Desktop (Git图形客户端)
 * [Tower](https://www.git-tower.com) - Git 客户端，支持GitHub、Bitbucket等
 * [SmartSVN](http://www.smartsvn.com) - SVN图形客户端
@@ -62,6 +63,7 @@
 * Sketch (原型设计、图像处理设计工具)
 * XMind (思维导图)
 * MindNode (思维导图)
+* [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 专业绘图制表工具，推荐v6.0
 
 ### +
 
