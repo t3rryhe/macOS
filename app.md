@@ -7,11 +7,6 @@
 
 * Homebrew
 
-# 压缩和解压缩
-
-* BetterZip
-* The Unarchiver
-
 # 浏览器
 
 * Chrome
@@ -28,6 +23,7 @@
 * Sublime Text (编辑器)
 * TextMate (编辑器)
 * Coda2 (编辑器)
+* WebStorm (JavaScript IDE)
 * PHPStorm (PHP IDE)
 * Cyberduck (FTP)
 * Typora (MarkDown)
@@ -80,6 +76,7 @@
 
 # 系统工具
 
+* [Archiver](http://archiverapp.com) (解压缩工具)
 * TeamViewer (远程协助)
 * Snip (截图)
 * DiffFork (文件对比)
