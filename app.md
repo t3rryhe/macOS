@@ -17,7 +17,7 @@
 
 # 开发
 
-* Dash
+* Dash https://kapeli.com/dash
 * Atom (IDE)
 * iTerm 2 (终端)
 * Sublime Text (编辑器)
