@@ -24,7 +24,9 @@
 * [TextMate](http://macromates.com) - 编辑器
 * [Coda2](http://www.panic.com/coda/) - 编辑器
 * [WebStorm](https://www.jetbrains.com/webstorm/) - JavaScript IDE
-* PHPStorm (PHP IDE)
+* [PHPStorm](https://www.jetbrains.com/phpstorm/) - PHP IDE
+* [PyCharm](https://www.jetbrains.com/pycharm/) - Python IDE
+* [AppCode](https://www.jetbrains.com/objc/) - APP Code IDE
 * [Cyberduck](https://cyberduck.io) - FTP
 * [Typora](https://typora.io) - MarkDown
 * MacDown (MarkDown)
