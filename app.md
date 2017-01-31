@@ -81,3 +81,4 @@
 * [Snip](http://snip.qq.com) - 截图
 * [DiffFork](http://www.dotfork.com/difffork/) - 文件对比
 * [F.lux](https://justgetflux.com) - 护眼工具
+* [Moom](https://manytricks.com/moom/) - 窗口控制器
