@@ -5,6 +5,7 @@
 * [Reeder](http://reederapp.com/mac/) - 阅读器
 * [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 * [Homebrew](http://brew.sh) - The missing package manager for macOS
+* [Timing](http://timingapp.com) - 统计 Mac 使用习惯，每天做了什么
 
 # 浏览器
 
@@ -12,7 +13,7 @@
 
 # 密码管理
 
-* 1password
+* [1password](https://1password.com/features/)
 
 # 开发
 
@@ -101,4 +102,5 @@
 * [DiffFork](http://www.dotfork.com/difffork/) - 文件对比
 * [F.lux](https://justgetflux.com) - 护眼工具
 * [Moom](https://manytricks.com/moom/) - 窗口控制器
-* [Noizio](http://noiz.io) - 风声雨声键盘声
+* [Noizio](http://noiz.io) - 让人感觉置身大自然的白噪声音效模拟工具
+* [CleanMyMac 3](http://macpaw.com/cleanmymac) - 系统清理
