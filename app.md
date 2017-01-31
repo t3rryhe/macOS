@@ -19,3 +19,12 @@
 # 密码管理
 
 * 1password
+
+# 开发
+
+* Dash
+* iTerm 2 (终端)
+* Sublime Text (编辑器)
+* Cyberduck (FTP)
+* Typora (MarkDown)
+
