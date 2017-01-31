@@ -1,6 +1,7 @@
 # 效率
 
 * Evernote - 知识管理工具
+* [Alfred](https://www.alfredapp.com)
 * [Reeder](http://reederapp.com/mac/) - 阅读器
 * [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 * [Homebrew](http://brew.sh) - The missing package manager for macOS
@@ -32,6 +33,7 @@
 * GitHub Desktop (Git图形客户端)
 * [SmartSVN](http://www.smartsvn.com) - SVN图形客户端
 * Navicat (数据库管理)
+* [Sequel Pro](http://www.sequelpro.com) - Mac 平台上的 Mysql Client
 * RoboMongo (MongoDB数据库管理)
 
 ### +
