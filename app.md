@@ -28,6 +28,7 @@
 * [PyCharm](https://www.jetbrains.com/pycharm/) - Python IDE
 * [AppCode](https://www.jetbrains.com/objc/) - APP Code IDE
 * [Cyberduck](https://cyberduck.io) - FTP
+* [Filezilla](https://filezilla-project.org) - FTP
 * [Typora](https://typora.io) - MarkDown
 * MacDown (MarkDown)
 * GitHub Desktop (Git图形客户端)
