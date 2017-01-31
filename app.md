@@ -17,13 +17,13 @@
 
 # 开发
 
-* Dash https://kapeli.com/dash
+* [Dash](https://kapeli.com/dash) - Mac下最好的 API 离线查询工具
 * Atom (IDE)
-* iTerm 2 (终端)
-* Sublime Text (编辑器)
+* [iTerm2](https://www.iterm2.com) - 终端
+* [Sublime Text](https://www.sublimetext.com) - 编辑器
 * TextMate (编辑器)
 * Coda2 (编辑器)
-* WebStorm (JavaScript IDE)
+* [WebStorm](https://www.jetbrains.com/webstorm/) - JavaScript IDE
 * PHPStorm (PHP IDE)
 * Cyberduck (FTP)
 * Typora (MarkDown)
@@ -76,8 +76,8 @@
 
 # 系统工具
 
-* [Archiver](http://archiverapp.com) (解压缩工具)
-* TeamViewer (远程协助)
-* Snip (截图)
-* DiffFork (文件对比)
-
+* [Archiver](http://archiverapp.com) - 解压缩工具
+* TeamViewer - 远程协助
+* Snip - 截图
+* DiffFork - 文件对比
+* [F.lux](https://justgetflux.com) - 护眼工具
