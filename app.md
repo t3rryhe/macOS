@@ -2,10 +2,7 @@
 
 * Evernote - 知识管理工具
 * [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
-
-# The missing package manager for OS X
-
-* Homebrew
+* [Homebrew](http://brew.sh) - The missing package manager for macOS
 
 # 浏览器
 
@@ -18,7 +15,7 @@
 # 开发
 
 * [Dash](https://kapeli.com/dash) - Mac下最好的 API 离线查询工具
-* Atom (IDE)
+* [Atom](https://atom.io) - IDE
 * [iTerm2](https://www.iterm2.com) - 终端
 * [Sublime Text](https://www.sublimetext.com) - 编辑器
 * [TextMate](http://macromates.com) - 编辑器
