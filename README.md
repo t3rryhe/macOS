@@ -1,5 +1,5 @@
 # macOS
 
-* [macOS 系统安装](https://github.com/helantao/macOS/blob/master/install.md)
-* [macOS 备份&恢复](https://github.com/helantao/macOS/blob/master/recovery.md)
-* [mac App](https://github.com/helantao/macOS/blob/master/app.md)
+* [macOS install](https://github.com/helantao/macOS/blob/master/install.md)
+* [macOS Backup and restore](https://github.com/helantao/macOS/blob/master/recovery.md)
+* [macOS App](https://github.com/helantao/macOS/blob/master/app.md)
