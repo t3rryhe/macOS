@@ -2,7 +2,6 @@
 
 * Evernote - 知识管理工具
 * [Alfred](https://www.alfredapp.com)
-* [Reeder](http://reederapp.com/mac/) - 阅读器
 * [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 * [Homebrew](http://brew.sh) - The missing package manager for macOS
 * [Timing](http://timingapp.com) - 统计 Mac 使用习惯，每天做了什么
@@ -104,6 +103,7 @@
 
 # 阅读
 
+* [Reeder](http://reederapp.com/mac/) - 阅读器
 * [Skim](https://sourceforge.net/projects/skim-app/) - PDF阅读器
 
 # 系统工具
