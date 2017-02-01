@@ -78,7 +78,7 @@
 
 # 通讯
 
-* QQ
+* [QQ](http://im.qq.com/macqq/)
 * 微信
 * Skype
 
