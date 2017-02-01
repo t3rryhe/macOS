@@ -102,6 +102,10 @@
 
 * 未完待续...
 
+# 阅读
+
+* [Skim](https://sourceforge.net/projects/skim-app/) - PDF阅读器
+
 # 系统工具
 
 * [Archiver](http://archiverapp.com) - 解压缩工具
