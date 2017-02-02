@@ -7,6 +7,8 @@
 * [Timing](http://timingapp.com) - 统计 Mac 使用习惯，每天做了什么
 * [Default Folder X](http://www.stclairsoft.com/DefaultFolderX/) - 快速定位/选择常用文件夹
 * [OmmWriter](http://www.ommwriter.com) - 为写作者创造梵音禅境，专注创作
+* [Moom](https://manytricks.com/moom/) - 窗口控制器
+* [Bartender](https://www.macbartender.com) - 自定义右上角 Menu 栏图标
 
 # 浏览器
 
@@ -119,10 +121,8 @@
 * [Snip](http://snip.qq.com) - 截图
 * [DiffFork](http://www.dotfork.com/difffork/) - 文件对比
 * [F.lux](https://justgetflux.com) - 护眼工具
-* [Moom](https://manytricks.com/moom/) - 窗口控制器
 * [Noizio](http://noiz.io) - 让人感觉置身大自然的白噪声音效模拟工具
 * [CleanMyMac 3](http://macpaw.com/cleanmymac) - 系统清理
-* [Bartender](https://www.macbartender.com) - 自定义右上角 Menu 栏图标
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - 实时显示系统状态、网速等
 
 # 黑科技
