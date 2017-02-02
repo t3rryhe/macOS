@@ -112,7 +112,7 @@
 
 # 阅读
 
-* [Reeder](http://reederapp.com/mac/) - 阅读器
+* [Reeder](http://reederapp.com/mac/) - RSS阅读器
 * [Skim](https://sourceforge.net/projects/skim-app/) - PDF阅读器
 
 # 系统工具
