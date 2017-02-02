@@ -37,7 +37,7 @@
 * [Typora](https://typora.io) - MarkDown
 * [MacDown](http://macdown.uranusjr.com) - MarkDown
 * [Ulysses](https://ulyssesapp.com) - 专业文本编辑工具，支持 Markdown
-* [MAMP](https://www.mamp.info/en/) - PHP+Mysql 开发集成环境
+* [MAMP](https://www.mamp.info) - Apache + MySQL + PHP 开发集成环境
 * GitHub Desktop (Git图形客户端)
 * [Tower](https://www.git-tower.com) - Git 客户端，支持GitHub、Bitbucket等
 * [SmartSVN](http://www.smartsvn.com) - SVN图形客户端
