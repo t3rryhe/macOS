@@ -14,7 +14,7 @@
 
 # 浏览器
 
-* Chrome
+* [Chrome](https://www.google.com/chrome/) - 浏览器
 
 # 密码管理
 
