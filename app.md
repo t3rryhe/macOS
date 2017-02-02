@@ -87,6 +87,11 @@
 * [搜狗拼音](http://pinyin.sogou.com/mac/)
 * 搜狗五笔
 
+# 影音
+
+* [QQ音乐](http://y.qq.com/download/mac.html)
+* [MPlayerX](http://mplayerx.org)
+
 # 邮件
 
 * [Sparrow](http://www.sparrowmailapp.com)
