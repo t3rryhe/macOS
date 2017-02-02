@@ -1,6 +1,6 @@
 # 效率
 
-* Evernote - 知识管理工具
+* [Evernote](https://evernote.com) - 知识管理工具
 * [Alfred](https://www.alfredapp.com)
 * [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 * [Homebrew](http://brew.sh) - The missing package manager for macOS
@@ -43,7 +43,7 @@
 * [SmartSVN](http://www.smartsvn.com) - SVN图形客户端
 * Navicat (数据库管理)
 * [Sequel Pro](http://www.sequelpro.com) - Mac 平台上的 Mysql Client
-* RoboMongo (MongoDB数据库管理)
+* [RoboMongo](https://robomongo.org) - MongoDB数据库管理
 * [Charles Proxy](https://www.charlesproxy.com) - 抓包代理调试工具、类 Fiddler
 
 
@@ -84,7 +84,6 @@
 
 * [QQ](http://im.qq.com/macqq/)
 * 微信
-* Skype
 
 # 输入法
 
