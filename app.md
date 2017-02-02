@@ -76,9 +76,9 @@
 
 # 云协作
 
-* worktile.com
-* teambition.com
-* shimo.io
+* [Worktile](https://worktile.com) - 团队协作工具
+* [Teambition](https://www.teambition.com) - 团队协作工具
+* [石墨](https://shimo.im) - 云端文档和表格
 
 # 通讯
 
