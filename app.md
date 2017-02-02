@@ -103,7 +103,7 @@
 
 # 虚拟机
 
-* Parallels Desktop
+* [Parallels Desktop](http://www.parallels.com)
 
 # 科学上网
 
