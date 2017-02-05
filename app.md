@@ -19,6 +19,7 @@
 # 密码管理
 
 * [1password](https://1password.com/features/)
+* [lastpass](https://lastpass.com)
 
 # 开发
 
