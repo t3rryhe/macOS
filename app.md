@@ -10,7 +10,6 @@
 * [OmmWriter](http://www.ommwriter.com) - 为写作者创造梵音禅境，专注创作
 * [Writer Pro](https://ia.net/writer/) - 写作利器，iA Writer 续作
 * [Moom](https://manytricks.com/moom/) - 窗口控制器
-* [Bartender](https://www.macbartender.com) - 自定义右上角 Menu 栏图标
 
 # 浏览器
 
@@ -126,6 +125,7 @@
 * [CleanMyMac 3](http://macpaw.com/cleanmymac) - 系统清理
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - 实时显示系统状态、网速等
 * [Xee](http://xee.c3.cx) - 图片浏览
+* [Bartender](https://www.macbartender.com) - 自定义右上角 Menu 栏图标
 
 # 黑科技
 
