@@ -126,6 +126,8 @@
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - 实时显示系统状态、网速等
 * [Xee](http://xee.c3.cx) - 图片浏览
 * [Bartender](https://www.macbartender.com) - 自定义右上角 Menu 栏图标
+* [MacID](https://macid.co) - 指纹解锁MAC
+* [Near Lock](http://nearlock.me) - 根据距离用手机解锁 Mac，配合 MacID 使用
 
 # 黑科技
 
