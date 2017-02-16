@@ -112,6 +112,7 @@
 
 * [Reeder](http://reederapp.com/mac/) - RSS阅读器
 * [Skim](https://sourceforge.net/projects/skim-app/) - PDF阅读器
+* [PDF Expert](https://pdfexpert.com) - 阅读、批注 PDF，编辑文本，添加照片，填写表单，签署合同
 
 # 系统工具
 
