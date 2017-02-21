@@ -10,6 +10,7 @@
 * [OmmWriter](http://www.ommwriter.com) - 为写作者创造梵音禅境，专注创作
 * [Writer Pro](https://ia.net/writer/) - 写作利器，iA Writer 续作
 * [Moom](https://manytricks.com/moom/) - 窗口控制器
+* [Spectacle](https://www.spectacleapp.com) - 窗口控制器
 
 # 浏览器
 
