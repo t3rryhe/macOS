@@ -20,6 +20,7 @@
 
 * [1password](https://1password.com/features/)
 * [lastpass](https://lastpass.com)
+* [enpass](https://enpass.io)
 
 # 开发
 
@@ -63,7 +64,8 @@
 
 # 产品
 
-* Axure (原型设计)
+* [Axure](http://www.axure.com) - 原型设计
+* [Mockplus](http://www.mockplus.com) - 原型设计
 * [Sketch](https://www.sketchapp.com) - 原型设计、图像处理设计工具
 * XMind (思维导图)
 * MindNode (思维导图)
