@@ -26,8 +26,8 @@
 
 # 版本控制
 
-* [Git](https://git-scm.com/) - 版本控制工具，官网提供 [数十种GUI客户端](https://git-scm.com/download/gui/mac) for Mac
-* [SVN](http://subversion.apache.org/) - 版本控制工具
+* [Git](https://git-scm.com) - 版本控制工具，官网提供 [数十种GUI客户端](https://git-scm.com/download/gui/mac) for Mac
+* [SVN](http://subversion.apache.org) - 版本控制工具
 
 ### GUI
 
@@ -37,12 +37,22 @@
 * [Oh My Star](http://www.ohmystarapp.com) - GitHub的star功能弱，比如分类，本地组织你的GitHub star!
 * [GitUp](http://gitup.co) - 一个简单功能强大的git客户端
 * [Hub](https://hub.github.com) - 将GitHub接口和git命令进行包装
-* [SourceTree](https://www.sourcetreeapp.com/) - 强大的Git跨平台客户端
-* [Tower2](https://www.git-tower.com/) - 最强大的Git客户端，支持GitHub、Bitbucket等
-* [Versions](http://www.versionsapp.com/) - Mac上最好的SVN管理工具
+* [SourceTree](https://www.sourcetreeapp.com) - 强大的Git跨平台客户端
+* [Tower2](https://www.git-tower.com) - 最强大的Git客户端，支持GitHub、Bitbucket等
+* [Versions](http://www.versionsapp.com) - Mac上最好的SVN管理工具
 * [Cornerstone](http://www.zennaware.com/cornerstone/) - Mac上最佳的SVN管理工具
 * [SmartGit](http://www.syntevo.com/smartgit/) - SVN图形客户端。非商业用途免费，全平台支持，集成 Github服务
-* [GitKraken](https://www.gitkraken.com/) - 最流行的图形用户界面的git管理工具
+* [GitKraken](https://www.gitkraken.com) - 最流行的图形用户界面的git管理工具
+
+### 版本控制系统
+
+* [GitLab](http://gitlab.com) - 一个用于仓库管理系统的开源项目
+* [GitHub](https://github.com) GitHub代码托管，项目管理，演示部署，瞧，您现在就访问GitHub
+* [Coding.net](https://coding.net) - 代码托管，项目管理，WebIDE，演示部署，开启云端开发模式，让开发更简单
+* [phabricator](https://phabricator.com) phabricator支持Git、SVN、HG 基于 PHP + Mysql 的开放源代码软件开发平台
+* [Gogs](https://gogs.io) - 一款极易搭建的自助 Git 服务Golang版本
+* [Gerrit](https://gerrit.rockbox.org) Gerrit 是一个免费、开放源代码的代码审查软件，使用网页界面
+* [Gitblit](http://www.gitblit.com) Java版本Git代码托管，项目管理
 
 # 开发
 
