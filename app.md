@@ -50,11 +50,23 @@
 * [RoboMongo](https://robomongo.org) - MongoDB数据库管理
 * [Charles Proxy](https://www.charlesproxy.com) - 抓包代理调试工具、类 Fiddler
 
-
 ### +
 
 * [CDNBee](https://cdnbee.com) - 前端开源库CDN加速
 * [img.ph](https://img.ph) - 快速和简单的图像占位符服务
+
+# 测试工具
+
+* [Wireshark](https://www.wireshark.org) - 世界上最广泛使用的网络协议分析软件
+* [Charles](https://www.charlesproxy.com) - 一个代理工具，允许你查看所有的 HTTP 和 HTTPS 流量
+* [James](https://github.com/james-proxy/james) - 用于 https 和 http 进行查询映射请求
+* [mitmproxy](https://mitmproxy.org) - 一款支持 HTTP(S) 的中间人代理工具，可在终端下运行，可用于抓包
+* [Insomnia 3.0](http://insomnia.rest) - 漂亮的 HTTP 请求测试工具
+* [Paw](https://luckymarmot.com/paw) - 先进的 HTTP 客户端
+* [Cellist](http://cellist.patr0n.us/index.html) - HTTP调试客户端。
+* [Integrity](http://peacockmedia.software/mac/integrity/free.html) - 轻松找到无效链接
+* [Postman](https://www.getpostman.com) - Postman 帮助我们快速测试API
+
 
 # iOS 工具
 
