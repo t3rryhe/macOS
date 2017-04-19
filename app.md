@@ -174,6 +174,13 @@
 * [MacID](https://macid.co) - 指纹解锁MAC
 * [Near Lock](http://nearlock.me) - 根据距离用手机解锁 Mac，配合 MacID 使用
 
+# 数据恢复
+
+* [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - 恢复文件系统损坏时，磁盘工具进行选择。
+* [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - 多种情况下的全面和专业的数据恢复。
+* [Stellar Phoenix Mac Data Recovery](http://www.stellarinfo.com/data-recovery-mac.php) - 一个功能强大的恢复文件面向Mac的工具。
+* [R-Studio for Mac](http://www.r-studio.com/data_recovery_macintosh/) - 可恢复分区被格式化、损坏或被删除的文件。
+
 # 黑科技
 
 * [AirServer](http://www.airserver.com) - 通过AirPlay技术，可以在MAC上显示iPhone或iPad屏幕
