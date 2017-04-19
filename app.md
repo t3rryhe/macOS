@@ -24,6 +24,12 @@
 * [lastpass](https://lastpass.com)
 * [enpass](https://enpass.io)
 
+# MarkDown
+
+* [Typora](https://typora.io)
+* [MacDown](http://macdown.uranusjr.com)
+* [Ulysses](https://ulyssesapp.com) - 专业文本编辑工具，支持 Markdown
+
 # 版本控制
 
 * [Git](https://git-scm.com) - 版本控制工具，官网提供 [数十种GUI客户端](https://git-scm.com/download/gui/mac) for Mac
@@ -68,9 +74,6 @@
 * [AppCode](https://www.jetbrains.com/objc/) - APP Code IDE
 * [Cyberduck](https://cyberduck.io) - FTP
 * [Filezilla](https://filezilla-project.org) - FTP
-* [Typora](https://typora.io) - MarkDown
-* [MacDown](http://macdown.uranusjr.com) - MarkDown
-* [Ulysses](https://ulyssesapp.com) - 专业文本编辑工具，支持 Markdown
 * [MAMP](https://www.mamp.info) - Apache + MySQL + PHP 开发集成环境
 * Navicat (数据库管理)
 * [Sequel Pro](http://www.sequelpro.com) - Mac 平台上的 Mysql Client
