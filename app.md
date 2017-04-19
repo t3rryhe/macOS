@@ -24,6 +24,26 @@
 * [lastpass](https://lastpass.com)
 * [enpass](https://enpass.io)
 
+# 版本控制
+
+* [Git](https://git-scm.com/) - 版本控制工具，官网提供 [数十种GUI客户端](https://git-scm.com/download/gui/mac) for Mac
+* [SVN](http://subversion.apache.org/) - 版本控制工具
+
+### GUI
+
+* [Fork](https://git-fork.com) - 一个快速友好的git客户端
+* [Gitbar](https://github.com/Shikkic/gitbar) - 开源，在你的菜单栏上显示GitHub贡献统计
+* [GitHub Desktop](https://desktop.github.com) - 使用GitHub的GUI应用
+* [Oh My Star](http://www.ohmystarapp.com) - GitHub的star功能弱，比如分类，本地组织你的GitHub star!
+* [GitUp](http://gitup.co) - 一个简单功能强大的git客户端
+* [Hub](https://hub.github.com) - 将GitHub接口和git命令进行包装
+* [SourceTree](https://www.sourcetreeapp.com/) - 强大的Git跨平台客户端
+* [Tower2](https://www.git-tower.com/) - 最强大的Git客户端，支持GitHub、Bitbucket等
+* [Versions](http://www.versionsapp.com/) - Mac上最好的SVN管理工具
+* [Cornerstone](http://www.zennaware.com/cornerstone/) - Mac上最佳的SVN管理工具
+* [SmartGit](http://www.syntevo.com/smartgit/) - SVN图形客户端。非商业用途免费，全平台支持，集成 Github服务
+* [GitKraken](https://www.gitkraken.com/) - 最流行的图形用户界面的git管理工具
+
 # 开发
 
 * [Dash](https://kapeli.com/dash) - Mac下最好的 API 离线查询工具
@@ -42,9 +62,6 @@
 * [MacDown](http://macdown.uranusjr.com) - MarkDown
 * [Ulysses](https://ulyssesapp.com) - 专业文本编辑工具，支持 Markdown
 * [MAMP](https://www.mamp.info) - Apache + MySQL + PHP 开发集成环境
-* GitHub Desktop (Git图形客户端)
-* [Tower](https://www.git-tower.com) - Git 客户端，支持GitHub、Bitbucket等
-* [SmartSVN](http://www.smartsvn.com) - SVN图形客户端
 * Navicat (数据库管理)
 * [Sequel Pro](http://www.sequelpro.com) - Mac 平台上的 Mysql Client
 * [RoboMongo](https://robomongo.org) - MongoDB数据库管理
