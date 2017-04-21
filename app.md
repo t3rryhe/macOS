@@ -153,7 +153,7 @@
 
 # 科学上网
 
-* 未完待续...
+* [shadowsocks](https://github.com/shadowsocks)
 
 # 阅读
 
