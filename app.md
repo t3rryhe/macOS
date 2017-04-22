@@ -17,6 +17,8 @@
 # 浏览器
 
 * [Chrome](https://www.google.com/chrome/)
+* [QQ Browser](http://browser.qq.com/mac/)
+* []
 
 # 密码管理
 
@@ -122,23 +124,28 @@
 
 # 云协作
 
+* [Trello](https://www.trello.com) - 团队协作工具
 * [Worktile](https://worktile.com) - 团队协作工具
 * [Teambition](https://www.teambition.com) - 团队协作工具
 * [石墨](https://shimo.im) - 云端文档和表格
 
 # 通讯
 
+* [Telegram](https://telegram.org)
 * [QQ](http://im.qq.com/macqq/)
-* 微信
+* [微信](http://weixin.qq.com)
 
 # 输入法
 
 * [搜狗拼音](http://pinyin.sogou.com/mac/)
-* 搜狗五笔
+* [搜狗五笔](http://pinyin.sogou.com/mac/)
+* [百度输入法](https://srf.baidu.com)
 
 # 影音
 
 * [QQ音乐](http://y.qq.com/download/mac.html)
+* [虾米音乐](http://www.xiami.com/apps/)
+* [网易云音乐](http://music.163.com/#/download)
 * [MPlayerX](http://mplayerx.org)
 
 # 邮件
