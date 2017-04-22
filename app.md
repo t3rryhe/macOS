@@ -14,12 +14,6 @@
 * [Moom](https://manytricks.com/moom/) - 窗口控制器
 * [Spectacle](https://www.spectacleapp.com) - 窗口控制器
 
-# 浏览器
-
-* [Chrome](https://www.google.com/chrome/)
-* [QQ Browser](http://browser.qq.com/mac/)
-* [Firefox](http://www.firefox.com.cn/download/)
-
 # 密码管理
 
 * [1password](https://1password.com/features/)
@@ -130,6 +124,12 @@
 * [Worktile](https://worktile.com)
 * [Teambition](https://www.teambition.com)
 * [石墨](https://shimo.im) - 云端文档和表格
+
+# 浏览器
+
+* [Chrome](https://www.google.com/chrome/)
+* [QQ Browser](http://browser.qq.com/mac/)
+* [Firefox](http://www.firefox.com.cn/download/)
 
 # 通讯
 
