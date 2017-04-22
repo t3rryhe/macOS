@@ -2,7 +2,7 @@
 
 # 效率
 
-* [Evernote](https://evernote.com) - 知识管理工具！帮你跨平台捕捉灵感，孕育想法，轻松共享。
+* [Evernote](https://evernote.com) - 知识管理工具（帮你跨平台捕捉灵感，孕育想法，轻松共享）
 * [Alfred](https://www.alfredapp.com) - （绝对的神器，来不及解释了 快上车）
 * [Oh My Zsh](http://ohmyz.sh) - 利用 Oh My Zsh 打造你的超级终端
 * [Homebrew](http://brew.sh) - The missing package manager for macOS
