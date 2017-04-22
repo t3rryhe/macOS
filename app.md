@@ -70,16 +70,23 @@
 * [PHPStorm](https://www.jetbrains.com/phpstorm/) - PHP IDE
 * [PyCharm](https://www.jetbrains.com/pycharm/) - Python IDE
 * [AppCode](https://www.jetbrains.com/objc/) - APP Code IDE
-* [MAMP](https://www.mamp.info) - Apache + MySQL + PHP 开发集成环境
-* [Navicat](https://www.navicat.com) - Navicat GUI 数据库管理（DB Admin Tool for MySQL, MariaDB, SQL Server, SQLite, Oracle &amp; PostgreSQL client）
-* [Sequel Pro](http://www.sequelpro.com) - Mac 平台上的 Mysql Client
-* [RoboMongo](https://robomongo.org) - MongoDB数据库管理
 * [Charles Proxy](https://www.charlesproxy.com) - 抓包代理调试工具、类 Fiddler
 
 ### +
 
 * [CDNBee](https://cdnbee.com) - 前端开源库CDN加速
 * [img.ph](https://img.ph) - 快速和简单的图像占位符服务
+
+# 数据库管理/GUI
+
+* [Navicat](https://www.navicat.com) - Navicat GUI 数据库管理（DB Admin Tool for MySQL, MariaDB, SQL Server, SQLite, Oracle &amp; PostgreSQL client）
+* [Sequel Pro](http://www.sequelpro.com) - Mac 平台上的 Mysql Client
+* [RoboMongo](https://robomongo.org) - MongoDB数据库管理
+
+# 开发集成环境
+
+* [XAMPP](https://www.apachefriends.org/zh_cn/download.html) - XAMPP是一个易于安装的Apache发行版，其中包含MariaDB、PHP和Perl
+* [MAMP](https://www.mamp.info) - Apache - MySQL - PHP
 
 # FTP
 
