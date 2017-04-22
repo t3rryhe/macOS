@@ -32,6 +32,7 @@
 * [Typora](https://typora.io)
 * [MacDown](http://macdown.uranusjr.com)
 * [Ulysses](https://ulyssesapp.com) - 专业文本编辑工具，支持 Markdown
+* [Bear](http://www.bear-writer.com) - 高颜值 Markdown 写作工具（Write beautifully on iPhone, iPad, and Mac）
 
 # 版本控制
 
