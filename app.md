@@ -106,7 +106,7 @@
 
 * iTools
 * [iExplorer](https://www.macroplant.com/iexplorer/) - 管理iOS设备
-* Iconkit
+* Iconkit - 一款适用于iOS和Mac的应用图标制作工具,能够自动制作成你需要的图标格式
 * iPhonePNGApp
 
 
