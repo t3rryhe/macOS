@@ -8,6 +8,7 @@
 * [Homebrew](http://brew.sh) - The missing package manager for macOS
 * [Timing](http://timingapp.com) - 统计 Mac 使用习惯，每天做了什么
 * [Default Folder X](http://www.stclairsoft.com/DefaultFolderX/) - 快速定位/选择常用文件夹
+* [PopClip](http://pilotmoon.com/popclip/) - 最基本的功能即用鼠标选中一段文字就可以做复制粘贴的动作，省去了我们平时 Command+C or V 的麻烦，但这个工具真正强大之处在于它的拓展功能 PopClip Extensions 的使用
 * [OmniFocus](https://www.omnigroup.com/omnifocus/) - GTD
 * [OmmWriter](http://www.ommwriter.com) - 为写作者创造梵音禅境，专注创作
 * [Writer Pro](https://ia.net/writer/) - 写作利器，iA Writer 续作
