@@ -78,7 +78,7 @@
 * [Cyberduck](https://cyberduck.io) - FTP
 * [Filezilla](https://filezilla-project.org) - FTP
 * [MAMP](https://www.mamp.info) - Apache + MySQL + PHP 开发集成环境
-* Navicat (数据库管理)
+* [Navicat](https://www.navicat.com) - Navicat GUI 数据库管理（DB Admin Tool for MySQL, MariaDB, SQL Server, SQLite, Oracle &amp; PostgreSQL client）
 * [Sequel Pro](http://www.sequelpro.com) - Mac 平台上的 Mysql Client
 * [RoboMongo](https://robomongo.org) - MongoDB数据库管理
 * [Charles Proxy](https://www.charlesproxy.com) - 抓包代理调试工具、类 Fiddler
