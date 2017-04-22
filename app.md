@@ -124,7 +124,7 @@
 * [Teambition](https://www.teambition.com)
 * [石墨](https://shimo.im) - 云端文档和表格
 
-# 云盘/网盘/云存储
+# 云盘 / 网盘 / 云同步
 
 * [Dropbox](https://www.dropbox.com)
 * [微云](https://www.weiyun.com)
@@ -182,6 +182,7 @@
 * [F.lux](https://justgetflux.com) - 护眼工具
 * [Noizio](http://noiz.io) - 让人感觉置身大自然的白噪声音效模拟工具
 * [CleanMyMac 3](http://macpaw.com/cleanmymac) - 系统清理、软件卸载
+* [CleanApp](http://www.syniumsoftware.com/cleanapp) - Clean your Mac
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - 实时显示系统状态、网速等
 * [Xee](http://xee.c3.cx) - 图片浏览
 * [Bartender](https://www.macbartender.com) - 自定义右上角 Menu 栏图标
@@ -202,3 +203,7 @@
 # 黑科技
 
 * [AirServer](http://www.airserver.com) - 通过AirPlay技术，可以在MAC上显示iPhone或iPad屏幕
+
+# 游戏
+
+* [Steam](http://store.steampowered.com/)
