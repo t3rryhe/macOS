@@ -9,7 +9,7 @@
 * [Timing](http://timingapp.com) - 统计 Mac 使用习惯，每天做了什么
 * [Default Folder X](http://www.stclairsoft.com/DefaultFolderX/) - 快速定位/选择常用文件夹
 * [PopClip](http://pilotmoon.com/popclip/) - 最基本的功能即用鼠标选中一段文字就可以做复制粘贴的动作，省去了我们平时 Command+C or V 的麻烦，但这个工具真正强大之处在于它的拓展功能 [PopClip Extensions](http://pilotmoon.com/popclip/extensions/) 的使用
-* [OmniFocus](https://www.omnigroup.com/omnifocus/) - GTD
+* [OmniFocus](https://www.omnigroup.com/omnifocus/) - 整合了提醒事项、日程、备注注释这些基础的管理功能，而且从事务驱动的层面给予了更多的选择，可以基于分类、时间线、完成度、截至日期、执行对象等等条件推进和管理事务，使得整个管理过程既有组织、条理，也能相互协调
 * [OmmWriter](http://www.ommwriter.com) - 为写作者创造梵音禅境，专注创作
 * [Writer Pro](https://ia.net/writer/) - 写作利器，iA Writer 续作
 * [Moom](https://manytricks.com/moom/) - 窗口控制器
