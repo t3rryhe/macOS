@@ -111,8 +111,8 @@
 * [Axure](http://www.axure.com) - 原型设计
 * [Mockplus](http://www.mockplus.com) - 原型设计
 * [Sketch](https://www.sketchapp.com) - 原型设计、图像处理设计工具
-* XMind (思维导图)
-* MindNode (思维导图)
+* [XMind](http://www.xmind.net) - 思维导图
+* [MindNode](https://mindnode.com) - 思维导图
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 专业绘图制表工具，推荐v6.0
 * [OmniOutliner](https://www.omnigroup.com/omnioutliner) - 写PPT、文档的好帮手
 
