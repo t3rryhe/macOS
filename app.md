@@ -124,6 +124,12 @@
 * [Teambition](https://www.teambition.com)
 * [石墨](https://shimo.im) - 云端文档和表格
 
+# 云盘/网盘/云存储
+
+* [Dropbox](https://www.dropbox.com)
+* [微云](https://www.weiyun.com)
+* [坚果云](https://www.jianguoyun.com)
+
 # 浏览器
 
 * [Chrome](https://www.google.com/chrome/)
@@ -151,6 +157,7 @@
 
 # 邮件
 
+* [Mailbox](http://www.mailboxapp.com)
 * [Sparrow](http://www.sparrowmailapp.com)
 * [Airmail](http://airmailapp.com)
 * [Foxmail](http://www.foxmail.com)
