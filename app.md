@@ -100,7 +100,7 @@
 
 * iTools
 * [iExplorer](https://www.macroplant.com/iexplorer/) - 管理iOS设备
-* Iconkit - 一款适用于iOS和Mac的应用图标制作工具,能够自动制作成你需要的图标格式
+* Iconkit - 一款适用于iOS和Mac的应用图标制作工具，能够自动制作成你需要的图标格式
 * iPhonePNGApp
 
 
@@ -160,10 +160,6 @@
 
 * [Parallels Desktop](http://www.parallels.com)
 
-# 科学上网
-
-* [shadowsocks](https://github.com/shadowsocks)
-
 # 阅读
 
 * [Reeder](http://reederapp.com/mac/) - RSS阅读器
@@ -192,6 +188,10 @@
 * [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - 多种情况下的全面和专业的数据恢复。
 * [Stellar Phoenix Mac Data Recovery](http://www.stellarinfo.com/data-recovery-mac.php) - 一个功能强大的恢复文件面向Mac的工具。
 * [R-Studio for Mac](http://www.r-studio.com/data_recovery_macintosh/) - 可恢复分区被格式化、损坏或被删除的文件。
+
+# 科学上网
+
+* [shadowsocks](https://github.com/shadowsocks)
 
 # 黑科技
 
