@@ -3,8 +3,8 @@
 # 效率
 
 * [Evernote](https://evernote.com) - 知识管理工具
-* [Alfred](https://www.alfredapp.com)
-* [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
+* [Alfred](https://www.alfredapp.com) - （绝对的神器，来不及解释了 快上车）
+* [Oh My Zsh](http://ohmyz.sh) - 利用 Oh My Zsh 打造你的超级终端
 * [Homebrew](http://brew.sh) - The missing package manager for macOS
 * [Timing](http://timingapp.com) - 统计 Mac 使用习惯，每天做了什么
 * [Default Folder X](http://www.stclairsoft.com/DefaultFolderX/) - 快速定位/选择常用文件夹
@@ -113,7 +113,7 @@
 * [Sketch](https://www.sketchapp.com) - 原型设计、图像处理设计工具
 * [XMind](http://www.xmind.net) - 思维导图
 * [MindNode](https://mindnode.com) - 思维导图
-* [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 专业绘图制表工具，推荐v6.0
+* [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 专业绘图制表工具
 * [OmniOutliner](https://www.omnigroup.com/omnioutliner) - 写PPT、文档的好帮手
 
 ### +
