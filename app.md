@@ -70,8 +70,6 @@
 * [PHPStorm](https://www.jetbrains.com/phpstorm/) - PHP IDE
 * [PyCharm](https://www.jetbrains.com/pycharm/) - Python IDE
 * [AppCode](https://www.jetbrains.com/objc/) - APP Code IDE
-* [Cyberduck](https://cyberduck.io) - FTP
-* [Filezilla](https://filezilla-project.org) - FTP
 * [MAMP](https://www.mamp.info) - Apache + MySQL + PHP 开发集成环境
 * [Navicat](https://www.navicat.com) - Navicat GUI 数据库管理（DB Admin Tool for MySQL, MariaDB, SQL Server, SQLite, Oracle &amp; PostgreSQL client）
 * [Sequel Pro](http://www.sequelpro.com) - Mac 平台上的 Mysql Client
@@ -82,6 +80,12 @@
 
 * [CDNBee](https://cdnbee.com) - 前端开源库CDN加速
 * [img.ph](https://img.ph) - 快速和简单的图像占位符服务
+
+# FTP
+
+* [Cyberduck](https://cyberduck.io)
+* [Filezilla](https://filezilla-project.org)
+* [Transmit](https://panic.com/transmit/)
 
 # 测试工具
 
