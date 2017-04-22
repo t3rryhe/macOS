@@ -4,7 +4,7 @@
 
 * [Evernote](https://evernote.com) - 知识管理工具（帮你跨平台捕捉灵感，孕育想法，轻松共享）
 * [Alfred](https://www.alfredapp.com) - （绝对的神器，来不及解释了 快上车）
-* [Oh My Zsh](http://ohmyz.sh) - 利用 Oh My Zsh 打造你的超级终端
+* [Oh My Zsh](http://ohmyz.sh) - 打造你的超级终端
 * [Homebrew](http://brew.sh) - macOS 缺失的软件包管理器！使用 Homebrew 安装 Apple 没有预装但 [你需要的东西](https://github.com/Homebrew/homebrew-core/tree/master/Formula)
 * [Timing](http://timingapp.com) - 统计 Mac 使用习惯，每天做了什么
 * [Default Folder X](http://www.stclairsoft.com/DefaultFolderX/) - 快速定位/选择常用文件夹
