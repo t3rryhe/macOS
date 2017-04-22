@@ -126,9 +126,9 @@
 
 # 云协作
 
-* [Trello](https://www.trello.com) - 团队协作工具
-* [Worktile](https://worktile.com) - 团队协作工具
-* [Teambition](https://www.teambition.com) - 团队协作工具
+* [Trello](https://www.trello.com)
+* [Worktile](https://worktile.com)
+* [Teambition](https://www.teambition.com)
 * [石墨](https://shimo.im) - 云端文档和表格
 
 # 通讯
