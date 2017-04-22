@@ -18,7 +18,7 @@
 
 * [Chrome](https://www.google.com/chrome/)
 * [QQ Browser](http://browser.qq.com/mac/)
-* []
+* [Firefox](http://www.firefox.com.cn/download/)
 
 # 密码管理
 
