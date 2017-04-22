@@ -174,7 +174,7 @@
 * [DiffFork](http://www.dotfork.com/difffork/) - 文件对比
 * [F.lux](https://justgetflux.com) - 护眼工具
 * [Noizio](http://noiz.io) - 让人感觉置身大自然的白噪声音效模拟工具
-* [CleanMyMac 3](http://macpaw.com/cleanmymac) - 系统清理
+* [CleanMyMac 3](http://macpaw.com/cleanmymac) - 系统清理、软件卸载
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - 实时显示系统状态、网速等
 * [Xee](http://xee.c3.cx) - 图片浏览
 * [Bartender](https://www.macbartender.com) - 自定义右上角 Menu 栏图标
