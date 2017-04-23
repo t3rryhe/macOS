@@ -180,7 +180,7 @@
 * [iTranslate](http://www.itranslate.com) - 支持全世界超过 80 种语言发音和输出
 * [Grammarly](https://app.grammarly.com) - 修正英语语法及用语
 * [有道翻译](http://cidian.youdao.com/multi.html) - 有道词典桌面版
-* [辞海词典](http://cidian.dict.cn/mac.html) - 学单词、背单词、辞海词典
+* [辞海词典](http://cidian.dict.cn/mac.html) - 学单词、背单词、真人发音、单词详解
 
 # 影音
 
