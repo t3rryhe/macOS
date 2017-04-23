@@ -6,6 +6,7 @@
 
 * [Evernote](https://evernote.com) - 知识管理工具（帮你跨平台捕捉灵感，孕育想法，轻松共享）
 * [Alfred](https://www.alfredapp.com) - （绝对的神器~ 来不及解释了 快上车）
+* [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - 简单来说，Keyboard Maestro 是通过一系列条件来触发一个个 Macro 藉此实现操作自动化的软件
 * [Oh My Zsh](http://ohmyz.sh) - 打造你的超级终端
 * [Homebrew](http://brew.sh) - macOS 缺失的软件包管理器！使用 Homebrew 安装 Apple 没有预装但 [你需要的东西](https://github.com/Homebrew/homebrew-core/tree/master/Formula)
 * [Timing](http://timingapp.com) - 统计 Mac 使用习惯，每天做了什么
@@ -28,7 +29,7 @@
 * [Typora](https://typora.io) - 极致简洁、实时预览
 * [MacDown](http://macdown.uranusjr.com)
 * [Ulysses](https://ulyssesapp.com) - 专业文本编辑工具，支持 Markdown
-* [Bear](http://www.bear-writer.com) - 高颜值 Markdown 写作工具（Write beautifully on iPhone, iPad, and Mac）
+* [Bear](http://www.bear-writer.com) - 高颜值 Markdown 写作工具，笔记应用中的瑞士军刀（Write beautifully on iPhone, iPad, and Mac）
 * [OmmWriter](http://www.ommwriter.com) - 为写作者创造梵音禅境，专注创作
 * [Noizio](http://noiz.io) - 让人感觉置身大自然的白噪声音效模拟工具
 * [Writer Pro](https://ia.net/writer/) - 写作利器，iA Writer 续作
@@ -135,6 +136,7 @@
 * [Sketch](https://www.sketchapp.com) - 原型设计、图像处理设计工具
 * [XMind](http://www.xmind.net) - 思维导图
 * [MindNode](https://mindnode.com) - 思维导图
+* [iThoughtsX](https://www.toketaware.com) - MindNode 和 iThoughtsX 一直是 Mac 脑图类软件中的两大翘楚，长久以来 MindNode 一直以其简约美观而著称，而 iThoughtsX 则代表了进阶用户的首选，功能相比 MindNode 来说更加强大
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 专业绘图制表工具
 * [OmniOutliner](https://www.omnigroup.com/omnioutliner) - 写PPT、文档的好帮手
 
