@@ -5,7 +5,7 @@
 # 效率
 
 * [Evernote](https://evernote.com) - 知识管理工具（帮你跨平台捕捉灵感，孕育想法，轻松共享）
-* [Alfred](https://www.alfredapp.com) - （绝对的神器，来不及解释了 快上车）
+* [Alfred](https://www.alfredapp.com) - （绝对的神器~ 来不及解释了 快上车）
 * [Oh My Zsh](http://ohmyz.sh) - 打造你的超级终端
 * [Homebrew](http://brew.sh) - macOS 缺失的软件包管理器！使用 Homebrew 安装 Apple 没有预装但 [你需要的东西](https://github.com/Homebrew/homebrew-core/tree/master/Formula)
 * [Timing](http://timingapp.com) - 统计 Mac 使用习惯，每天做了什么
@@ -207,10 +207,10 @@
 
 # 数据恢复
 
-* [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - 恢复文件系统损坏时，磁盘工具进行选择。
-* [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - 多种情况下的全面和专业的数据恢复。
-* [Stellar Phoenix Mac Data Recovery](http://www.stellarinfo.com/data-recovery-mac.php) - 一个功能强大的恢复文件面向Mac的工具。
-* [R-Studio for Mac](http://www.r-studio.com/data_recovery_macintosh/) - 可恢复分区被格式化、损坏或被删除的文件。
+* [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - 恢复文件系统损坏时，磁盘工具进行选择
+* [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - 多种情况下的全面和专业的数据恢复
+* [Stellar Phoenix Mac Data Recovery](http://www.stellarinfo.com/data-recovery-mac.php) - 一个功能强大的恢复文件面向Mac的工具
+* [R-Studio for Mac](http://www.r-studio.com/data_recovery_macintosh/) - 可恢复分区被格式化、损坏或被删除的文件
 
 # 科学上网
 
