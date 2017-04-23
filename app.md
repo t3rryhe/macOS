@@ -72,6 +72,7 @@
 * [Dash](https://kapeli.com/dash) - Mac下最好的 API 离线查询工具
 * [iTerm2](https://www.iterm2.com) - 终端
 * [Charles Proxy](https://www.charlesproxy.com) - 抓包代理调试工具、类 Fiddler
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 强大的 Mac java 开发工具
 
 ### 编辑器 / IDE
 
