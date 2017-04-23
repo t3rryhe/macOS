@@ -204,6 +204,7 @@
 * [Xee](http://xee.c3.cx) - 图片浏览
 * [Bartender](https://www.macbartender.com) - 自定义右上角 Menu 栏图标
 * [迅雷下载](http://mac.xunlei.com) - 下载加速
+* [IDM](http://www.idmformac.com) - 下载加速 IDM For Mac
 
 # 数据恢复
 
