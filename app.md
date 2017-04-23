@@ -12,8 +12,6 @@
 * [Default Folder X](http://www.stclairsoft.com/DefaultFolderX/) - 快速定位/选择常用文件夹
 * [PopClip](http://pilotmoon.com/popclip/) - 最基本的功能即用鼠标选中一段文字就可以做复制粘贴的动作，省去了我们平时 Command+C or V 的麻烦，但这个工具真正强大之处在于它的拓展功能 [PopClip Extensions](http://pilotmoon.com/popclip/extensions/) 的使用
 * [OmniFocus](https://www.omnigroup.com/omnifocus/) - 整合了提醒事项、日程、备注注释这些基础的管理功能，而且从事务驱动的层面给予了更多的选择，可以基于分类、时间线、完成度、截至日期、执行对象等等条件推进和管理事务，使得整个管理过程既有组织、条理，也能相互协调
-* [OmmWriter](http://www.ommwriter.com) - 为写作者创造梵音禅境，专注创作
-* [Writer Pro](https://ia.net/writer/) - 写作利器，iA Writer 续作
 * [Moom](https://manytricks.com/moom/) - 窗口控制器
 * [Spectacle](https://www.spectacleapp.com) - 窗口控制器
 * [MacID](https://macid.co) - 指纹解锁MAC
@@ -25,12 +23,19 @@
 * [lastpass](https://lastpass.com)
 * [enpass](https://enpass.io)
 
-# MarkDown
+# MarkDown / 写作 / 阅读
 
 * [Typora](https://typora.io)
 * [MacDown](http://macdown.uranusjr.com)
 * [Ulysses](https://ulyssesapp.com) - 专业文本编辑工具，支持 Markdown
 * [Bear](http://www.bear-writer.com) - 高颜值 Markdown 写作工具（Write beautifully on iPhone, iPad, and Mac）
+* [OmmWriter](http://www.ommwriter.com) - 为写作者创造梵音禅境，专注创作
+* [Noizio](http://noiz.io) - 让人感觉置身大自然的白噪声音效模拟工具
+* [Writer Pro](https://ia.net/writer/) - 写作利器，iA Writer 续作
+* [Reeder](http://reederapp.com/mac/) - RSS阅读器
+* [Skim](https://sourceforge.net/projects/skim-app/) - PDF阅读器
+* [PDF Expert](https://pdfexpert.com) - 阅读、批注 PDF，编辑文本，添加照片，填写表单，签署合同
+
 
 # 版本控制
 
@@ -185,12 +190,6 @@
 
 * [Parallels Desktop](http://www.parallels.com)
 
-# 阅读
-
-* [Reeder](http://reederapp.com/mac/) - RSS阅读器
-* [Skim](https://sourceforge.net/projects/skim-app/) - PDF阅读器
-* [PDF Expert](https://pdfexpert.com) - 阅读、批注 PDF，编辑文本，添加照片，填写表单，签署合同
-
 # 系统工具
 
 * [Archiver](http://archiverapp.com) - 解压缩工具
@@ -199,7 +198,6 @@
 * [Snip](http://snip.qq.com) - 截图
 * [DiffFork](http://www.dotfork.com/difffork/) - 文件对比
 * [F.lux](https://justgetflux.com) - 护眼工具
-* [Noizio](http://noiz.io) - 让人感觉置身大自然的白噪声音效模拟工具
 * [CleanMyMac 3](http://macpaw.com/cleanmymac) - 系统清理、软件卸载
 * [CleanApp](http://www.syniumsoftware.com/cleanapp) - Clean your Mac
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - 实时显示系统状态、网速等
