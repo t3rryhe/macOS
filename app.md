@@ -163,7 +163,7 @@
 
 # 通讯
 
-* [Telegram](https://telegram.org)
+* [Telegram](https://macos.telegram.org)
 * [QQ](http://im.qq.com/macqq/)
 * [微信](http://weixin.qq.com)
 
