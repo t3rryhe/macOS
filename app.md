@@ -65,8 +65,12 @@
 # 开发
 
 * [Dash](https://kapeli.com/dash) - Mac下最好的 API 离线查询工具
-* [Atom](https://atom.io) - Github 自家出的编辑器
 * [iTerm2](https://www.iterm2.com) - 终端
+* [Charles Proxy](https://www.charlesproxy.com) - 抓包代理调试工具、类 Fiddler
+
+### 编辑器 / IDE
+
+* [Atom](https://atom.io) - Github 自家出的编辑器
 * [Sublime Text](https://www.sublimetext.com) - 编辑器
 * [TextMate](http://macromates.com) - 编辑器
 * [Coda2](http://www.panic.com/coda/) - 编辑器
@@ -74,7 +78,6 @@
 * [PHPStorm](https://www.jetbrains.com/phpstorm/) - PHP IDE
 * [PyCharm](https://www.jetbrains.com/pycharm/) - Python IDE
 * [AppCode](https://www.jetbrains.com/objc/) - APP Code IDE
-* [Charles Proxy](https://www.charlesproxy.com) - 抓包代理调试工具、类 Fiddler
 
 ### +
 
