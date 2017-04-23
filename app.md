@@ -23,7 +23,7 @@
 * [lastpass](https://lastpass.com)
 * [enpass](https://enpass.io)
 
-# MarkDown / 写作 / 阅读
+# Markdown / 写作 / 阅读
 
 * [Typora](https://typora.io) - 极致简洁、实时预览
 * [MacDown](http://macdown.uranusjr.com)
