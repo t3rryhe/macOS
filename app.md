@@ -231,7 +231,7 @@
 
 # 科学上网
 
-* [shadowsocks](https://github.com/shadowsocks)
+* [Shadowsocks](https://github.com/shadowsocks/shadowsocks-iOS/wiki/Shadowsocks-for-OSX-%E5%B8%AE%E5%8A%A9)
 
 # 黑科技
 
