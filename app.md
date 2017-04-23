@@ -172,6 +172,15 @@
 * [搜狗拼音](http://pinyin.sogou.com/mac/)
 * [搜狗五笔](http://pinyin.sogou.com/mac/)
 * [百度输入法](https://srf.baidu.com)
+* [清歌五笔输入法](https://qingg.im) - 为 iOS 和 Mac 专门打造的五笔输入法
+
+
+# 翻译工具
+
+* [iTranslate](http://www.itranslate.com) - 支持全世界超过 80 种语言发音和输出
+* [Grammarly](https://app.grammarly.com) - 修正英语语法及用语
+* [有道翻译](http://cidian.youdao.com/multi.html) - 有道词典桌面版
+* [辞海词典](http://cidian.dict.cn/mac.html) - 学单词、背单词、辞海词典
 
 # 影音
 
