@@ -208,6 +208,7 @@
 * [The Unarchiver](https://itunes.apple.com/cn/app/the-unarchiver/id425424353?mt=12) - 解压缩工具
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - 快速修改hosts文件
 * [Paste](http://pasteapp.me) - 剪贴板增强工具
+* [XtraFinder](https://www.trankynam.com/xtrafinder/) - 免费的 Finder 增强工具，让你的 Mac 资源管理器变得更加强大
 * [TeamViewer](https://www.teamviewer.com) - 远程支持/协助
 * [Snip](http://snip.qq.com) - 截图
 * [DiffFork](http://www.dotfork.com/difffork/) - 文件对比
