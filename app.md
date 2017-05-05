@@ -204,6 +204,8 @@
 
 # 系统工具
 
+* [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - PNG图片的“几乎无损”压缩服务！通过简单的拖拽完成对PNG图片的压缩，无需打开浏览器，无需手动下载图片
+* [Kap](https://getkap.co) - 基于Web技术的开源屏幕录像机
 * [Archiver](http://archiverapp.com) - 解压缩工具
 * [The Unarchiver](https://itunes.apple.com/cn/app/the-unarchiver/id425424353?mt=12) - 解压缩工具
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - 快速修改hosts文件
