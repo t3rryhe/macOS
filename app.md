@@ -220,6 +220,7 @@
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - 实时显示系统状态、网速等
 * [Xee](http://xee.c3.cx) - 图片浏览
 * [Bartender](https://www.macbartender.com) - 自定义右上角 Menu 栏图标
+* [Vanilla](http://matthewpalmer.net/vanilla/) - hide Mac menu bar icons for free（类似Bartender）
 * [iRotar] - Mac主屏幕旋转
 
 # 下载加速
