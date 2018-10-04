@@ -67,3 +67,5 @@ Mac OS X支持网络安装和本地安装。网络安装，就是直接使用com
 * 更改触摸板默认设置
 
 在"Trackpad"里打开"Tap to click"设置
+
+
