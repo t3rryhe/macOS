@@ -135,6 +135,7 @@
 * [Mockplus](http://www.mockplus.com) - 原型设计
 * [Sketch](https://www.sketchapp.com) - 原型设计、图像处理设计工具
 * [XMind](http://www.xmind.net) - 思维导图
+* [XMind ZEN](https://www.xmind.cn/zen/) - 思维导图
 * [MindNode](https://mindnode.com) - 思维导图
 * [iThoughtsX](https://www.toketaware.com) - MindNode 和 iThoughtsX 一直是 Mac 脑图类软件中的两大翘楚，长久以来 MindNode 一直以其简约美观而著称，而 iThoughtsX 则代表了进阶用户的首选，功能相比 MindNode 来说更加强大
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 专业绘图制表工具
