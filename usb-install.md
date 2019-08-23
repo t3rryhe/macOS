@@ -35,7 +35,7 @@ sudo /Applications/Install\ macOS\ Sierra.app/Contents/Resources/createinstallme
 
 ### 通过 U 盘安装 macOS Mojave / 格式化重装 (抹盘全新安装系统) 方法
 
-> 当你制作好 macOS Mojave 的安装盘 U 盘之后，你就可以利用它来给 Mac 电脑格式化重装 (抹盘安装)了。操作的方法非常简单：
+> 当你制作好 macOS Mojave 的安装盘 U 盘之后，你就可以利用它来给 Mac 电脑格式化重装 (抹盘安装)了
 
 1. 备份好 Mac 里所有的重要数据
 2. 插上制作好的安装U盘，如果系统能识别出来即可，这时我们先关机
