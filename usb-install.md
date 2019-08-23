@@ -2,9 +2,9 @@
 
 如果你对系统有洁癖或原本系统已凌乱不堪，那么可能还是希望能格式化「全新安装 macOS」的
 
-不过由于苹果官方只提供了 macOS 的升级程序，并没提供完整 dmg 镜像，想要全新安装的话，只能自己制作一个 macOS Mojave 的U盘启动盘/安装盘了。这样以后给 Mac 重装系统、在没网络的情况下给多台机器装机都方便许多……
+不过由于苹果官方只提供了 macOS 的升级程序，并没提供完整 dmg 镜像，想要全新安装的话，只能自己制作一个 macOS Mojave 的U盘启动盘/安装盘了。这样以后给 Mac 重装系统，在没网络的情况下给多台机器装机都方便许多。
 
-制作 macOS Mojave 正式版 USB 启动盘的方法有很多，用户可以选择使用命令行来创建，也可以选择第三方U盘制作工具来制作，大家可以根据自己的喜好选择。
+### 方法
 
 1. 准备一个 8GB 或更大容量的 U盘
 2. 下载好 macOS Mojave 正式版的安装程序备用，先不要启动安装
@@ -25,9 +25,9 @@ sudo /Applications/Install\ macOS\ High\ Sierra.app/Contents/Resources/createins
 
 > 如要制作「旧版本的 macOS Sierra」，U盘名称改成 Sierra，拷贝这段命令：
 
-<code>
+```
 sudo /Applications/Install\ macOS\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/Sierra --applicationpath /Applications/Install\ macOS\ Sierra.app --nointeraction
-</code>
+```
 
 
 5. 回车并执行该命令，这时会提示让你输入管理员密码，便会开始制作过程了
