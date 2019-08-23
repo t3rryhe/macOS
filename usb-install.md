@@ -11,17 +11,20 @@
 3. 打开 “应用程序 → 实用工具 → 磁盘工具”，将U盘「抹掉」(格式化) 成「Mac OS X 扩展（日志式）」格式、GUID 分区图，并将 U 盘命名为「Mojave」。注意：这个盘符名称必须与后面的命令里的名称一致
 4. 打开 “应用程序→实用工具→终端”，将下面的一段命令复制并粘贴进去：
 
-如要制作 macOS Mojave 启动盘，U盘名称要改成「Mojave」(必须与下面命令对应)，然后拷贝这段命令：
+> 如要制作 macOS Mojave 启动盘，U盘名称要改成「Mojave」(必须与下面命令对应)，然后拷贝这段命令：
+
 <code>
 sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/Mojave /Applications/Install\ macOS\ Mojave.app --nointeraction
 </code>
 
-如要制作 macOS High Sierra 启动盘，U盘名称要改成 HighSierra (要与下面命令对应)，拷贝这段命令：
+> 如要制作 macOS High Sierra 启动盘，U盘名称要改成 HighSierra (要与下面命令对应)，拷贝这段命令：
+
 <code>
 sudo /Applications/Install\ macOS\ High\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/HighSierra --applicationpath /Applications/Install\ macOS\ High\ Sierra.app --nointeraction
 </code>
 
-如要制作「旧版本的 macOS Sierra」，U盘名称改成 Sierra，拷贝这段命令：
+> 如要制作「旧版本的 macOS Sierra」，U盘名称改成 Sierra，拷贝这段命令：
+
 <code>
 sudo /Applications/Install\ macOS\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/Sierra --applicationpath /Applications/Install\ macOS\ Sierra.app --nointeraction
 </code>
