@@ -1,8 +1,8 @@
-##  极致的 Mac应用程序/软件/工具 ~ 主要面向开发者、设计师和产品经理
+#  极致的 Mac应用程序/软件/工具 ~ 主要面向开发者、设计师和产品经理
 
 不迷恋大而全 成百上千 眼花缭乱的软件清单，仅收集并持续更新真正的精品！嗯，欢迎 Star
 
-# 效率
+## 效率
 
 * [Evernote](https://evernote.com) - 知识管理工具（帮你跨平台捕捉灵感，孕育想法，轻松共享）
 * [Alfred](https://www.alfredapp.com) - （绝对的神器~ 来不及解释了 快上车）
@@ -18,13 +18,13 @@
 * [MacID](https://macid.co) - 指纹解锁MAC
 * [Near Lock](http://nearlock.me) - 根据距离用手机解锁 Mac，配合 MacID 使用
 
-# 密码管理
+## 密码管理
 
 * [1password](https://1password.com/features/)
 * [lastpass](https://lastpass.com)
 * [enpass](https://enpass.io)
 
-# Markdown / 写作 / 阅读
+## Markdown / 写作 / 阅读
 
 * [Typora](https://typora.io) - 极致简洁、实时预览
 * [MacDown](http://macdown.uranusjr.com)
@@ -38,12 +38,12 @@
 * [PDF Expert](https://pdfexpert.com) - 阅读、批注 PDF，编辑文本，添加照片，填写表单，签署合同
 
 
-# 版本控制
+## 版本控制
 
 * [Git](https://git-scm.com) - 版本控制工具，官网提供 [数十种GUI客户端](https://git-scm.com/download/gui/mac) for Mac
 * [SVN](http://subversion.apache.org) - 版本控制工具
 
-### GUI
+## GUI
 
 * [Fork](https://git-fork.com) - 一个快速友好的git客户端
 * [Gitbar](https://github.com/Shikkic/gitbar) - 开源，在你的菜单栏上显示GitHub贡献统计
@@ -58,7 +58,7 @@
 * [SmartGit](http://www.syntevo.com/smartgit/) - SVN图形客户端。非商业用途免费，全平台支持，集成 Github服务
 * [GitKraken](https://www.gitkraken.com) - 最流行的图形用户界面的git管理工具
 
-### 版本控制系统
+## 版本控制系统
 
 * [GitLab](http://gitlab.com) - 一个用于仓库管理系统的开源项目
 * [GitHub](https://github.com) GitHub代码托管，项目管理，演示部署
@@ -68,14 +68,14 @@
 * [Gerrit](https://gerrit.rockbox.org) Gerrit 是一个免费、开放源代码的代码审查软件，使用网页界面
 * [Gitblit](http://www.gitblit.com) Java版本Git代码托管，项目管理
 
-# 开发
+## 开发
 
 * [Dash](https://kapeli.com/dash) - Mac下最好的 API 离线查询工具
 * [iTerm2](https://www.iterm2.com) - 终端
 * [Charles Proxy](https://www.charlesproxy.com) - 抓包代理调试工具、类 Fiddler
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 强大的 Mac java 开发工具
 
-### 编辑器 / IDE
+## 编辑器 / IDE
 
 * [Atom](https://atom.io) - Github 自家出的编辑器
 * [Sublime Text](https://www.sublimetext.com) - 编辑器
@@ -86,29 +86,24 @@
 * [PyCharm](https://www.jetbrains.com/pycharm/) - Python IDE
 * [AppCode](https://www.jetbrains.com/objc/) - APP Code IDE
 
-### +
-
-* [CDNBee](https://cdnbee.com) - 前端开源库CDN加速
-* [img.ph](https://img.ph) - 快速和简单的图像占位符服务
-
-# 数据库管理/GUI
+## 数据库管理/GUI
 
 * [Navicat](https://www.navicat.com) - Navicat GUI 数据库管理（DB Admin Tool for MySQL, MariaDB, SQL Server, SQLite, Oracle &amp; PostgreSQL client）
 * [Sequel Pro](http://www.sequelpro.com) - Mac 平台上的 Mysql Client
 * [RoboMongo](https://robomongo.org) - MongoDB数据库管理
 
-# 开发集成环境
+## 开发集成环境
 
 * [XAMPP](https://www.apachefriends.org/zh_cn/download.html) - XAMPP是一个易于安装的Apache发行版，其中包含MariaDB、PHP和Perl
 * [MAMP](https://www.mamp.info) - Apache - MySQL - PHP
 
-# FTP
+## FTP
 
 * [Cyberduck](https://cyberduck.io)
 * [Filezilla](https://filezilla-project.org)
 * [Transmit](https://panic.com/transmit/)
 
-# 测试工具
+## 测试工具
 
 * [Wireshark](https://www.wireshark.org) - 世界上最广泛使用的网络协议分析软件
 * [Charles](https://www.charlesproxy.com) - 一个代理工具，允许你查看所有的 HTTP 和 HTTPS 流量
@@ -121,7 +116,7 @@
 * [Postman](https://www.getpostman.com) - Postman 帮助我们快速测试API
 
 
-# iOS 工具
+## iOS 工具
 
 * iTools
 * [iExplorer](https://www.macroplant.com/iexplorer/) - 管理iOS设备
@@ -129,7 +124,7 @@
 * iPhonePNGApp
 
 
-# 产品 / 设计
+## 产品 / 设计
 
 * [Axure](http://www.axure.com) - 原型设计
 * [Mockplus](http://www.mockplus.com) - 原型设计
@@ -145,32 +140,32 @@
 
 * [ProcessOn](http://processon.com)
 
-# 云协作
+## 云协作
 
 * [Trello](https://www.trello.com)
 * [Worktile](https://worktile.com)
 * [Teambition](https://www.teambition.com)
 * [石墨](https://shimo.im) - 云端文档和表格
 
-# 云盘 / 网盘 / 云同步
+## 云盘 / 网盘 / 云同步
 
 * [Dropbox](https://www.dropbox.com)
 * [微云](https://www.weiyun.com)
 * [坚果云](https://www.jianguoyun.com)
 
-# 浏览器
+## 浏览器
 
 * [Chrome](https://www.google.com/chrome/)
 * [QQ Browser](http://browser.qq.com/mac/)
 * [Firefox](http://www.firefox.com.cn/download/)
 
-# 通讯
+## 通讯
 
 * [Telegram](https://macos.telegram.org)
 * [QQ](http://im.qq.com/macqq/)
 * [微信](http://weixin.qq.com)
 
-# 输入法
+## 输入法
 
 * [搜狗拼音](http://pinyin.sogou.com/mac/)
 * [搜狗五笔](http://pinyin.sogou.com/mac/)
@@ -178,32 +173,32 @@
 * [清歌五笔输入法](https://qingg.im) - 为 iOS 和 Mac 专门打造的五笔输入法
 
 
-# 翻译工具
+## 翻译工具
 
 * [iTranslate](http://www.itranslate.com) - 支持全世界超过 80 种语言发音和输出
 * [Grammarly](https://app.grammarly.com) - 修正英语语法及用语
 * [有道翻译](http://cidian.youdao.com/multi.html) - 有道词典Mac版
 * [辞海词典](http://cidian.dict.cn/mac.html) - 学单词、背单词、真人发音、单词详解
 
-# 影音
+## 影音
 
 * [QQ音乐](http://y.qq.com/download/mac.html)
 * [虾米音乐](http://www.xiami.com/apps/)
 * [网易云音乐](http://music.163.com/#/download)
 * [MPlayerX](http://mplayerx.org)
 
-# 邮件
+## 邮件
 
 * [Mailbox](http://www.mailboxapp.com)
 * [Sparrow](http://www.sparrowmailapp.com)
 * [Airmail](http://airmailapp.com)
 * [Foxmail](http://www.foxmail.com)
 
-# 虚拟机
+## 虚拟机
 
 * [Parallels Desktop](http://www.parallels.com)
 
-# 系统工具
+## 系统工具
 
 * [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - PNG图片的“几乎无损”压缩服务！通过简单的拖拽完成对PNG图片的压缩，无需打开浏览器，无需手动下载图片
 * [Kap](https://getkap.co) - 基于Web技术的开源屏幕录像机
@@ -224,28 +219,28 @@
 * [Vanilla](http://matthewpalmer.net/vanilla/) - hide Mac menu bar icons for free（类似Bartender）
 * [iRotar] - Mac主屏幕旋转
 
-# 下载加速
+## 下载加速
 
 * [迅雷下载](http://mac.xunlei.com)
 * [IDM](http://www.idmformac.com)
 * [aria2](https://aria2.github.io)
 
-# 数据恢复
+## 数据恢复
 
 * [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - 恢复文件系统损坏时，磁盘工具进行选择
 * [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - 多种情况下的全面和专业的数据恢复
 * [Stellar Phoenix Mac Data Recovery](http://www.stellarinfo.com/data-recovery-mac.php) - 一个功能强大的恢复文件面向Mac的工具
 * [R-Studio for Mac](http://www.r-studio.com/data_recovery_macintosh/) - 可恢复分区被格式化、损坏或被删除的文件
 
-# 科学上网
+## 科学上网
 
 * [Shadowsocks](https://github.com/shadowsocks/shadowsocks-iOS/wiki/Shadowsocks-for-OSX-%E5%B8%AE%E5%8A%A9)
 
-# 黑科技
+## 黑科技
 
 * [AirServer](http://www.airserver.com) - 通过AirPlay技术，可以在MAC上显示iPhone或iPad屏幕
 
-# 游戏
+## 游戏
 
 * [Steam](http://store.steampowered.com/)
 
