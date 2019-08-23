@@ -13,21 +13,22 @@
 
 > 如要制作 macOS Mojave 启动盘，U盘名称要改成「Mojave」(必须与下面命令对应)，然后拷贝这段命令：
 
-<code>
+```
 sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/Mojave /Applications/Install\ macOS\ Mojave.app --nointeraction
-</code>
+```
 
 > 如要制作 macOS High Sierra 启动盘，U盘名称要改成 HighSierra (要与下面命令对应)，拷贝这段命令：
 
-<code>
+```
 sudo /Applications/Install\ macOS\ High\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/HighSierra --applicationpath /Applications/Install\ macOS\ High\ Sierra.app --nointeraction
-</code>
+```
 
 > 如要制作「旧版本的 macOS Sierra」，U盘名称改成 Sierra，拷贝这段命令：
 
 <code>
 sudo /Applications/Install\ macOS\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/Sierra --applicationpath /Applications/Install\ macOS\ Sierra.app --nointeraction
 </code>
+
 
 5. 回车并执行该命令，这时会提示让你输入管理员密码，便会开始制作过程了
 6. 请耐心等待直到屏幕最后出现 Done. 字样即表示大功告成了！
